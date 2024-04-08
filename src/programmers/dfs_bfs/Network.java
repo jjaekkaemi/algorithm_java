@@ -1,6 +1,6 @@
 package programmers.dfs_bfs;
 
-class Solution {
+class Network {
     public void dfs(int i, int[][] computers, boolean[] visited){
         visited[i] = true;
         for(int j = 0 ; j<computers[i].length ; j++){
