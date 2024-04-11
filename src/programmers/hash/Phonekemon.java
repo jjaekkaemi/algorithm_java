@@ -1,4 +1,4 @@
-package programmers.dfs_bfs;
+package programmers.hash;
 import java.util.*;
 public class Phonekemon {
     class Solution {
